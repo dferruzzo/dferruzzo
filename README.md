@@ -1,8 +1,9 @@
 - Hi, I’m @dferruzzo
 - I’m interested in applied math
-  - Mathematical Modeling in Biology, particularly in compartmental model.
   - Mahematical Modeling for UAVs
-- How to reach me? dferruzzo@gmail.com
+  - Nonolinear and linear control,
+  - Mathematical Modeling in Biology.
+- How to reach me? dferruzzo@gmail.com and diego.ferruzzo@ufabc.edu.br
 
 <!---
 dferruzzo/dferruzzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
